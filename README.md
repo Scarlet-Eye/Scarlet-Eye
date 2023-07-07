@@ -1,4 +1,4 @@
-# $${\color{red}Info} \space {\color{black}About} \space {\color{red}Profile}$$
+# $${\color{green}Info} \space {\color{black}About} \space {\color{cyan}Profile}$$
 
 - 👋 Hi, I’m ![Name](/InfoFolder(GitHub)/S.E.png)
 - **```</>```** I’m currently learning programming on ![Haxe](/InfoFolder(GitHub)/HAXE.png) and ![Lua](/InfoFolder(GitHub)/LUA.png)
